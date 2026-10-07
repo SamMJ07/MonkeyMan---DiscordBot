@@ -55,8 +55,9 @@ Note: `<name>` is the user's Discord username, written as a single word.
 ### 2. Download the project
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/SamMJ07/MonkeyMan---DiscordBot
+.git
+cd MonkeyMan---DiscordBot
 ```
 
 ### 3. Add your bot token
